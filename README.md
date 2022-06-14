@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👉 I’m currently working on pet projects
+- 👉 I’m currently working on sample projects
 - 🏅 I’m currently learning Python Django
 - 📫 How to reach me: https://t.me/irongun
 - ⚡ Fun fact: I have written descriptions of my projects in Russian. Now I'm too lazy to translate them
