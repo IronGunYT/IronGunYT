@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👉 I’m currently working on pet projects
+- 🏅 I’m currently learning Python Django
+- 📫 How to reach me: https://t.me/irongun
+- ⚡ Fun fact: I have written descriptions of my projects in Russian. Now I'm too lazy to translate them
+
 <!--
 **IronGunYT/IronGunYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
