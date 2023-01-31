@@ -20,8 +20,8 @@
 
 <h3 align="left">QA Experience(ru):</h3>
 <div>
-<img width=300 src="https://raw.githubusercontent.com/IronGunYT/IronGunYT/main/certif_vk.jpg" alt="certificate">
-<img width=500 src="https://raw.githubusercontent.com/IronGunYT/IronGunYT/main/certificate.png" alt="certificate">
+<img width=150 src="https://raw.githubusercontent.com/IronGunYT/IronGunYT/main/certif_vk.jpg" alt="certificate">
+<!--img width=500 src="https://raw.githubusercontent.com/IronGunYT/IronGunYT/main/certificate.png" alt="certificate"-->
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
